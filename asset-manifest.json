@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/redux-srart-withh-repet/static/css/main.8b911469.chunk.css",
+    "main.js": "/redux-srart-withh-repet/static/js/main.e30ad522.chunk.js",
+    "main.js.map": "/redux-srart-withh-repet/static/js/main.e30ad522.chunk.js.map",
+    "runtime-main.js": "/redux-srart-withh-repet/static/js/runtime-main.a75bb60f.js",
+    "runtime-main.js.map": "/redux-srart-withh-repet/static/js/runtime-main.a75bb60f.js.map",
+    "static/css/2.156e8745.chunk.css": "/redux-srart-withh-repet/static/css/2.156e8745.chunk.css",
+    "static/js/2.5cd0a731.chunk.js": "/redux-srart-withh-repet/static/js/2.5cd0a731.chunk.js",
+    "static/js/2.5cd0a731.chunk.js.map": "/redux-srart-withh-repet/static/js/2.5cd0a731.chunk.js.map",
+    "index.html": "/redux-srart-withh-repet/index.html",
+    "static/css/2.156e8745.chunk.css.map": "/redux-srart-withh-repet/static/css/2.156e8745.chunk.css.map",
+    "static/css/main.8b911469.chunk.css.map": "/redux-srart-withh-repet/static/css/main.8b911469.chunk.css.map",
+    "static/js/2.5cd0a731.chunk.js.LICENSE.txt": "/redux-srart-withh-repet/static/js/2.5cd0a731.chunk.js.LICENSE.txt",
+    "static/media/error.903400b1.jpg": "/redux-srart-withh-repet/static/media/error.903400b1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a75bb60f.js",
+    "static/css/2.156e8745.chunk.css",
+    "static/js/2.5cd0a731.chunk.js",
+    "static/css/main.8b911469.chunk.css",
+    "static/js/main.e30ad522.chunk.js"
+  ]
+}
