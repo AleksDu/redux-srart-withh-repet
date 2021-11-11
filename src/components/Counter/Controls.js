@@ -1,0 +1,13 @@
+import React from "react";
+import { store } from "../../redux/store";
+const Controls = ({ onIncrement, onDecrement }) => (
+  <div className="Counter__controls">
+    <button type="button" onClick={onDecrement}>
+      уменьшить на {step}
+    </button>
+    <button type="button" onClick={onIncrement}>
+      Увеличить на {step}
+    </button>
+  </div>
+);
+export default Controls;

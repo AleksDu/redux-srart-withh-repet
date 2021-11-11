@@ -4,10 +4,10 @@
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
   },
-  "name": "react-21-22-hyki",
+  "name": "redux-srart-withh-repet",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aleksdu.github.io/react-21-22-hyki/",
+  "homepage": "https://aleksdu.github.io/redux-srart-withh-repet/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
@@ -20,10 +20,13 @@
     "react-dom": "^17.0.2",
     "react-icons": "^4.3.1",
     "react-loader-spinner": "^4.0.0",
+    "react-redux": "^7.2.6",
     "react-router-dom": "^5.3.0",
     "react-scripts": "4.0.3",
     "react-switch": "^6.0.0",
     "react-toastify": "^5.2.0",
+    "redux": "^4.1.2",
+    "redux-devtools-extension": "^2.13.9",
     "route-node": "^4.1.1",
     "web-vitals": "^1.1.2"
   },
